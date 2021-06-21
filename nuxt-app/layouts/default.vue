@@ -80,6 +80,11 @@ export default {
           title: 'Inspire',
           to: '/inspire',
         },
+        {
+          icon: 'mdi-chemical-weapon',
+          title: 'Position',
+          to: '/position',
+        },
       ],
       miniVariant: false,
       right: true,
