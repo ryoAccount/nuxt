@@ -18,3 +18,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[Vuetify](https://v2.vuetifyjs.com/en)
+[Material Icon](https://pictogrammers.github.io/@mdi/font/1.7.22/)

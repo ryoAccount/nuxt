@@ -81,9 +81,14 @@ export default {
           to: '/inspire',
         },
         {
-          icon: 'mdi-chemical-weapon',
-          title: 'Position',
-          to: '/position',
+          icon: 'mdi-grid',
+          title: 'Grid',
+          to: '/Grid',
+        },
+        {
+          icon: 'mdi-alert-circle',
+          title: 'Alert',
+          to: '/Alert',
         },
       ],
       miniVariant: false,
