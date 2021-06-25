@@ -90,6 +90,11 @@ export default {
           title: 'Alert',
           to: '/Alert',
         },
+        {
+          icon: 'mdi-account-circle',
+          title: 'avatar',
+          to: '/Avatar',
+        },
       ],
       miniVariant: false,
       right: true,
