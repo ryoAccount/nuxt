@@ -79,3 +79,20 @@
     </v-col>
   </v-row>
 </template>
+
+<script>
+export default {
+  head() {
+    return {
+      title: 'Welcome',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Welcome Nuxt.js Page',
+        },
+      ],
+    }
+  },
+}
+</script>
