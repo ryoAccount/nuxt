@@ -57,17 +57,22 @@ export default {
         {
           icon: 'mdi-grid',
           title: 'Grid',
-          to: '/Grid',
+          to: '/grid',
         },
         {
           icon: 'mdi-alert-circle',
           title: 'Alert',
-          to: '/Alert',
+          to: '/alert',
         },
         {
           icon: 'mdi-account-circle',
-          title: 'avatar',
-          to: '/Avatar',
+          title: 'Avatar',
+          to: '/avatar',
+        },
+        {
+          icon: 'mdi-do-not-disturb',
+          title: 'No Vuetify',
+          to: '/novuetify',
         },
       ],
       miniVariant: false,
